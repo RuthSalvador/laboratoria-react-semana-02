@@ -13,3 +13,6 @@ render(
   <App />,
   document.getElementById('root')
 )
+
+
+//HOC: higher order components: es una funcion que recibe un componente react y retornar un componente basado en el componente q se le dió, va a mejorar
